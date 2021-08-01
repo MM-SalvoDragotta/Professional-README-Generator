@@ -11,9 +11,8 @@
 ![Screencastify](https://img.shields.io/badge/-screencastify-lightgrey)
 
 <details>
-<summary><h2>Table of content</h2></summary>
+<summary><h2>Table of Contents</h2></summary>
 
-## Table of Contents 
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)

@@ -1,26 +1,25 @@
 
-  # My Project
-
-  ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+  # My project   
 
   ## Table of Contents 
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Contributing](#Contributing)
-  - [Testing](#testing)
-  - [Questions](#Questions)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
   ## Description:
   This is the description of the project
 
   ## Installation:
-  Installation instruction go here
+  Installation instructions go here
 
   ## Usage:
-  This is how the project will be used 
+  Usage instructions 
   
   ## License
   This App is covered by the MIT license.
@@ -29,11 +28,12 @@
   Fork the project if you want to contribute
 
   ## Tests:
-  Refer to this section to test this project
+  Refer to this sections for tests
 
   ## Questions:
   ✉️ Contact me with any questions
 
-  - ![GitHub followers](https://img.shields.io/github/followers/undefined?style=social) [MM-SalvoDragotta](https://github.com/undefined)   
-  - Email: salvo.dragotta@mottmac.com
+  - [![GitHub followers](https://img.shields.io/github/followers/MM-SalvoDragotta?style=social)](https://github.com/MM-SalvoDragotta) 
+  - [![GitHub followers](https://img.shields.io/github/followers/MM-SalvoDragotta?style=social)](https://github.com/MM-SalvoDragotta/)  
+  - Email: Salvo@myemail.com
 

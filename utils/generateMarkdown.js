@@ -43,7 +43,7 @@ function generateMarkdown(data) {
   - [Usage](#usage)
   - [License](#license)
   - [Contributing](#contributing)
-  - [Testing](#testing)
+  - [Tests](#tests)
   - [Questions](#questions)
 
   ## Description:
@@ -67,7 +67,7 @@ function generateMarkdown(data) {
   ## Questions:
   ✉️ Contact me with any questions
 
-  - ![GitHub followers](https://img.shields.io/github/followers/${data.GitHub}?style=social) [${data.GitHub}](https://github.com/${data.github})   
+  - [![GitHub followers](https://img.shields.io/github/followers/${data.GitHub}?style=social)](https://github.com/${data.GitHub})  
   - Email: ${data.email}
 
 `;
