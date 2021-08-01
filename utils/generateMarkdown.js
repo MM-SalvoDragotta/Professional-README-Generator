@@ -35,16 +35,17 @@ function generateMarkdown(data) {
   return `
   # ${data.title}
 
-  ## Licensing
+  ## License
   ${renderLicenseBadge(data.license)}
 
   ## Table of Contents 
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Contribution](#contribution)
+  - [License](#license)
+  - [Contributing](#Contributing)
   - [Testing](#testing)
-  - [Additional Info](#additional-info)
+  - [Questions](#Questions)
 
   ## Description:
   ${data.description}
@@ -53,15 +54,19 @@ function generateMarkdown(data) {
   ${data.install}
 
   ## Usage:
-  ${data.usage}  
+  ${data.usage} 
+  
+  ## License
+  This App is covered by the ${data.license} license.
 
-  ## Contribution:
+  ## Contributing:
   ${data.contribute}
 
-  ## Testing:
+  ## Tests:
   ${data.test}
 
-  ## Additional Info:
+  ## Questions:
+  ✉️ Contact me with any questions
   - Github: [${data.GitHub}](https://github.com/${data.github})
   - Email: ${data.email}
 

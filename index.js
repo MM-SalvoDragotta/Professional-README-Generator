@@ -148,9 +148,12 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 function init() {
     //console.log(markdown.renderLicenseBadge("MIT"));
-
-
-
+    console.log(`Please answer the following questions \n`)
+    inquirer.prompt(questions)
+    .then(function (data) {
+        // console.log(data)
+        writeToFile("READMETest.md", markdown.generateMarkdown(data));
+    });
 }
 
 
