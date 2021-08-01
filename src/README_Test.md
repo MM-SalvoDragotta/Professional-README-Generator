@@ -13,27 +13,26 @@
   - [Questions](#questions)
 
   ## Description:
-  This is the description of the project
+  the description
 
   ## Installation:
   Installation instructions go here
 
   ## Usage:
-  Usage instructions 
+  Usage 
   
   ## License
   This App is covered by the MIT license.
 
   ## Contributing:
-  Fork the project if you want to contribute
+  Contributing
 
   ## Tests:
-  Refer to this sections for tests
+  Testing
 
   ## Questions:
   ✉️ Contact me with any questions
 
-  - [![GitHub followers](https://img.shields.io/github/followers/MM-SalvoDragotta?style=social)](https://github.com/MM-SalvoDragotta) 
-  - [![GitHub followers](https://img.shields.io/github/followers/MM-SalvoDragotta?style=social)](https://github.com/MM-SalvoDragotta/)  
-  - Email: Salvo@myemail.com
+  - [![GitHub followers](https://img.shields.io/github/followers/MM-SalvoDragotta?style=social)](https://github.com/MM-SalvoDragotta)  
+  - Email: salvo@myemail.com
 
