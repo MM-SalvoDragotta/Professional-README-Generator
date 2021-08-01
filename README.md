@@ -27,8 +27,10 @@
 
 This command-line application dynamically generates a professional README file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer)
 
-The following animation shows the web application's appearance and functionality:
+The following animation shows the README Generator appearance and functionality:
+
 ![Professional README Generator.gif](./src/READMEGenerator.gif)
+
 
 A sample README generated using the application can be found here 
 [README test ](./src/README_Test.md) 
@@ -37,11 +39,9 @@ A sample README generated using the application can be found here
 
 ## Installation
 
-💾   
-  
-`npm init`
-  
-`npm install inquirer`
+💾     
+
+`npm install`
 
 ----
 
@@ -53,8 +53,11 @@ Run the following command at the root of your project and answer the prompted qu
 
 `node index.js`
 
-🎥  A video of the typical user flow through the application can be found here 
-[Professional README Generator.mp4](./src/READMEGenerator.mp4)  
+🎥  A video of the typical user flow through the application can be found here [Professional README Generator.mp4](./src/READMEGenerator.mp4) 
+
+Also refer to the following screenshot
+
+![Professional README Console](./src/READMEGenerator.png)  
 
 ----
 
