@@ -108,8 +108,7 @@ const questions = [
     {
         type: "input",
         message: "Let the user know how to test your project",
-        name: "test",
-        default: "npm run test",
+        name: "test",        
         validate: value =>{
             if (value){
                 return true;  
@@ -152,7 +151,7 @@ function init() {
     inquirer.prompt(questions)
     .then(function (data) {
         // console.log(data)
-        writeToFile("READMETest.md", markdown.generateMarkdown(data));
+        writeToFile("./src/README_Test.md", markdown.generateMarkdown(data));
     });
 }
 
